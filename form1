@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> youtube</title>
+</head>
+<body>
+    <h1>PERSONAL DETAILS</h1>
+    
+    
+    </select><br><br>
+    <label>First name:</label>
+    <input type="text"><br><br>
+    <label>last name:</label>
+    <input type="text"><br><br>
+    <label>Phone no:</label>
+    <input type="id"><br><br> 
+    
+    <label for="dob">DATE OF BIRTH:</label>
+    <input type="date" id="dob" name="dob" required><br><br>
+    <label> gender</label>
+    <input type="radio" id="male" name="male" value="MALE">
+    <label for="male">MALE</label>
+    <input type="radio" id="female" name="female" value="FEMALE">
+    <label for="female">FEMALE</label>
+    <input type="radio" id="other" name="other" value="OTHER">
+  <label for="other">OTHER</label><br><br> 
+      
+    <label>email id:</label>
+    <input type="text"><br><br>
+    <label> Address:</label>
+    <input type="text"><br><br>
+    <input type="submit">
